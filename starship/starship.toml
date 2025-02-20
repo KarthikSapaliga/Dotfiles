@@ -27,11 +27,11 @@ palette = 'star'
 fg_light = '#cacaca'
 fg_dark = '#222222'
 fg_red = '#ff2222'
-color_bg0 = '#3B4252' # os and username
+color_bg0 = '#383e4d' # os and username
 color_bg1 = '#434C5E' # directory
-color_bg2 = '#4C566A' # git
-color_bg3 = '#86BBD8' # language
-color_bg4 = '#06969A' # docker context
+color_bg2 = '#5a667d' # git
+color_bg3 = '#7fa5ba' # language
+color_bg4 = '#0b9599' # docker context
 color_bg5 = '#33658A' # time
 
 [username]
