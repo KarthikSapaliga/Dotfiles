@@ -24,13 +24,13 @@ $line_break$character"""
 palette = 'star'
 
 [palettes.star]
-fg_light = '#cacaca'
-fg_dark = '#222222'
-fg_red = '#ff2222'
-color_bg0 = '#383e4d' # os and username
+fg_light = '#cacaca'  # foreground light
+fg_dark = '#201f1f'   # foreground dark
+fg_red = '#ce5959'    # foreground red
+color_bg0 = '#3d4250' # os and username
 color_bg1 = '#434C5E' # directory
 color_bg2 = '#5a667d' # git
-color_bg3 = '#7fa5ba' # language
+color_bg3 = '#86b1b7' # languages
 color_bg4 = '#0b9599' # docker context
 color_bg5 = '#33658A' # time
 
