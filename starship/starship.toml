@@ -71,8 +71,8 @@ format = '[ $symbol $branch ]($style)'
 [git_status]
 format = '([$ahead_behind $all_status]($style))'
 conflicted = "= "
-ahead = "⇡${ahead_count} "
-behind = "⇣${behind_count} "
+ahead = "⇡${ahead_count}"
+behind = "⇣${behind_count}"
 diverged = "⇡${ahead_count}⇣${behind_count} "
 untracked = "?${count} "
 stashed = "\\$${count} "
